@@ -4,6 +4,7 @@ Perfect! Thanks for sharing the actual results. I’ve updated the `README.md` t
 # Mall Customer Segmentation
 
 This project performs customer segmentation on the **Mall Customer Dataset** (from Kaggle) using clustering techniques. The goal is to group customers based on their **Annual Income** and **Spending Score** to identify meaningful customer segments. Both **K-Means** and **DBSCAN** clustering algorithms are applied and compared.
+````
 
 ---
 
